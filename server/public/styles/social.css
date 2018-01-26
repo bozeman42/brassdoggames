@@ -43,7 +43,7 @@
     transform: scale(1.25);
     z-index: 1;
   }
-   .social-img:hover {
+  .social-img:hover {
     transform: scale(1.25);
     z-index: 1;
   } 
@@ -125,8 +125,5 @@
 
 #bgg-icon {
     width: 45px;
-    height;45px;
-}
-img {
-    
+    height: 45px;
 }
