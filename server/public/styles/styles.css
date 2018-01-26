@@ -1,34 +1,34 @@
 @font-face {
     font-family: 'asmara';
-    src: url('../fonts/Asmara.ttf') format('truetype'),
-        url('../fonts/asmara.eot') format('eot'),
-        url('../fonts/asmara.woff') format('woff'),
-        url('../fonts/asmara.woff2') format('woff2'),
-        url('../fonts/asmara.svg') format('svg');
+    src: url('./fonts/Asmara.ttf') format('truetype'),
+        url('./fonts/asmara.eot') format('eot'),
+        url('./fonts/asmara.woff') format('woff'),
+        url('./fonts/asmara.woff2') format('woff2'),
+        url('./fonts/asmara.svg') format('svg');
 }
 
 @font-face {
     font-family: 'noteworthy';
-    src: url('../fonts/Noteworthy-Bold.ttf') format('truetype'),
-        url('../fonts/Noteworthy-Bold.eot') format('eot'),
-        url('../fonts/Noteworthy-Bold.woff') format('woff'),
-        url('../fonts/Noteworthy-Bold.woff2') format('woff2'),
-        url('../fonts/Noteworthy-Bold.svg') format('svg');
+    src: url('./fonts/Noteworthy-Bold.ttf') format('truetype'),
+        url('./fonts/Noteworthy-Bold.eot') format('eot'),
+        url('./fonts/Noteworthy-Bold.woff') format('woff'),
+        url('./fonts/Noteworthy-Bold.woff2') format('woff2'),
+        url('./fonts/Noteworthy-Bold.svg') format('svg');
 }
 
 @font-face {
     font-family: 'blackmoor';
-    src: url('../fonts/blackmoor.ttf') format('truetype'),
-        url('../fonts/blackmoor.eot') format('eot'),
-        url('../fonts/blackmoor.woff') format('woff'),
-        url('../fonts/blackmoor.woff2') format('woff2'),
-        url('../fonts/blackmoor.svg') format('svg');
+    src: url('./fonts/blackmoor.ttf') format('truetype'),
+        url('./fonts/blackmoor.eot') format('eot'),
+        url('./fonts/blackmoor.woff') format('woff'),
+        url('./fonts/blackmoor.woff2') format('woff2'),
+        url('./fonts/blackmoor.svg') format('svg');
 }
 
 
-/* body {
+body {
     background-color: black;
-} */
+}
 
 
 .caption {
