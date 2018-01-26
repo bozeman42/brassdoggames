@@ -1,0 +1,45 @@
+.mm-game-page {
+    color: whitesmoke;
+    margin-bottom: 50px;
+}
+
+.mm-game-page .jumbotron {
+    background-color: black;
+}
+
+p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.mm-game-page h1 {
+    text-align: center;
+    font-family: 'blackmoor';
+}
+
+.mm-cap-m {
+    font-size: 160%;
+}
+
+.white-background {
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+.thick-border {
+    border-color: black;
+    border-width: thick;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.mm-image {
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 200px;
+}
+
+.mmWide {
+    padding-left: 20px;
+    padding-right: 20px;
+}

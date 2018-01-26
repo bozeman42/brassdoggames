@@ -1,0 +1,132 @@
+
+.social-img {
+    border-color: #bbb;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    -o-transition:.2s;
+    -ms-transition:.2s;
+    -moz-transition:.2s;
+    -webkit-transition:.2s;
+    transition:0.2s;
+    font-size: 200%;
+    width: 45px;
+    height: 45px;
+    border-radius: 20%;
+    z-index: 0;
+    margin: -15px 2px 0px 2px;
+    
+}
+
+.social {
+    border-color: #bbb;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    -o-transition:.2s;
+    -ms-transition:.2s;
+    -moz-transition:.2s;
+    -webkit-transition:.2s;
+    transition:0.2s;
+    font-size: 200%;
+    width: 45px;
+    height: 45px;
+    padding-top: 8px;
+    border-radius: 20%;
+    z-index: 0;
+    margin: 2px;
+}
+@media (min-width: 900px) {
+  .social:hover {
+    transform: scale(1.25);
+    z-index: 1;
+  }
+   .social-img:hover {
+    transform: scale(1.25);
+    z-index: 1;
+  } 
+}
+
+.social:hover {
+  border-color: black;
+  z-index: 1;
+}
+
+#facebook-icon {
+  color: #3b5998;
+}
+
+#facebook-icon:hover {
+  color: white;
+  background-color: #3b5998;
+}
+
+#twitter-icon {
+  color: #00ACED;
+}
+
+#twitter-icon:hover {
+  color: white;
+  background-color: #00ACED;
+}
+
+#email-icon {
+  color: #555555;
+}
+
+#email-icon:hover {
+  color: white;
+  background-color: #555555;
+}
+
+#instagram-icon {
+  color: #fb3958;
+}
+
+#instagram-icon:hover {
+  color: white;
+  background-color: #fb3958;
+}
+
+@media (min-width: 900px) {
+  .social-icon:hover {
+  transform: scale(1.25);
+  }
+}
+
+#fcc-icon {
+  color: darkgreen;
+}
+
+#fcc-icon:hover {
+  color: white;
+  background-color: darkgreen;
+}
+
+#github-icon {
+  color: black;
+}
+
+#github-icon:hover {
+  color: white;
+  background-color: black;
+}
+
+#linkedin-icon {
+  color: #0077B5;
+}
+
+#linkedin-icon:hover {
+  color: white;
+  background-color: #0077B5;
+}
+
+#bgg-icon {
+    width: 45px;
+    height;45px;
+}
+img {
+    
+}

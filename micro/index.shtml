@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+
+<html>    
+<head>
+    <meta HTTP-EQUIV="REFRESH" content="0; url=http://www.brassdoggames.com/mm.shtml">
+    <!--#include virtual="../head.html"-->
+    <link rel="stylesheet" href="css/mm.css">
+</head>
+
+<body>
+<!--#include virtual="../navbar.html"-->
+    <div id="maincontent"></div>
+<!--#include virtual="../footer.html"-->  
+    </body></html>

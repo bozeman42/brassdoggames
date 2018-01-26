@@ -1,0 +1,37 @@
+.tap-game-page {
+    background-color: white;
+    padding: 10px 50px 50px 50px;
+    border-radius: 10px;
+}
+
+
+.tap-game-page h1 {
+    text-align: center;
+    font-family: 'noteworthy';
+}
+
+.tap-media-col > img {
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tap-game-page hr {
+    border-color: black;
+    border-style: solid;
+}
+
+.img-border {
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 10px;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.jumbotron {
+    background-color: white;
+}

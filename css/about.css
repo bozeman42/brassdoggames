@@ -1,0 +1,40 @@
+
+
+.glow {
+    animation: glow;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+    
+}
+.about-page h4 {
+    margin-top: 20px;
+}
+.about-page h1 {
+    text-align: center;
+}
+
+@keyframes zoom {
+    0% {left: -100%;position:absolute;}
+    80% {left: 50%;}
+    100%{left: 0%;position:relative;}
+}
+
+@keyframes glow {
+    0%   {color: #F99F2D;}
+    50%  {color: #E08927;}
+    100% {color: #F99F2D;}
+}
+.about-page p {
+    color:whitesmoke;
+    margin-top: 10px;
+}
+
+.about-page img {
+    margin: auto;
+}
+
+.zoom {
+    animation: zoom;
+    animation-duration:1.5s;
+    animation-iteration-count: 1;
+}
