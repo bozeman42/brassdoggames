@@ -1,0 +1,17 @@
+{
+  "name": "brassdoggames.com",
+  "version": "1.0.0",
+  "description": "Brass Dog Games' Website",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "Aaron Kvarnlov-Leverty",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8",
+    "express": "^4.16.2"
+  }
+}

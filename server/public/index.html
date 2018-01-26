@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta chars="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brass Dog Games</title>
+    <script src="https://use.fontawesome.com/12af582de8.js"></script>
+    <script type="text/javascript" src="vendors/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="vendors/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="vendors/angular.min.js"></script>
+    <script src="vendors/angular-route.min.js"></script>
+    <script src="scripts/client.js"></script>
+    <script src="scripts/controllers/controller.home.js"></script>
+    <link rel="stylesheet" href="vendors/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/social.css">
+    <link rel="stylesheet" href="styles/navbar.css">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+
+
+<body ng-app="App">
+    <div ng-include="views/partials/header.html"></div>
+    <div ng-include="views/partials/nav.html"></div>
+    <main ng-view></main>
+    <div ng-include="views/partials/footer.html"></div>
+</body>
+
+
+</html>

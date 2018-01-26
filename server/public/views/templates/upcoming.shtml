@@ -23,7 +23,7 @@
                 <p>You will have to survive attacks from several distinct pirate captains and their artillery to be victorious.</p>
             </div>
             <div class="col-md-4">
-                <img class="img img-responsive" src="images/upcoming/conDojo.jpg" alt="Con-goers play Dojo Defense">
+                <img class="img img-responsive" src="assets/images/upcoming/conDojo.jpg" alt="Con-goers play Dojo Defense">
             </div>
         </div>
         <hr>
@@ -36,7 +36,7 @@
                 <p>Don&#39t let anyone get in your way in this Take That game of twisted survival.</p>
             </div>
             <div class="col-md-pull-8 col-md-4">
-                <img class="img img-responsive" src="images/upcoming/qdoaBoard.png" alt="Quarantine: D.O.A. Map">
+                <img class="img img-responsive" src="assets/images/upcoming/qdoaBoard.png" alt="Quarantine: D.O.A. Map">
             </div>
         </div>
         <hr>
@@ -46,7 +46,7 @@
                 <p>Collect treasure and coins while racing to the finish in this 8-Bit Side Scrolling Deck Builder. Use Move, Jump and Turbo cards to navigate your way through an ever-advancing landscape but don’t get left behind or you’ll get K.O.ed. Can you get the high score?</p>
             </div>
             <div class="col-md-4">
-                <img class="img img-responsive" src="images/upcoming/8bit.jpg" alt="8-Bit Dash">
+                <img class="img img-responsive" src="assets/images/upcoming/8bit.jpg" alt="8-Bit Dash">
             </div>
         </div>
     </div>
