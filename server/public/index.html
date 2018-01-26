@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta chars="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brass Dog Games</title>
+    <script src="https://use.fontawesome.com/12af582de8.js"></script>
+    <script type="text/javascript" src="vendors/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="vendors/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="vendors/angular.min.js"></script>
+    <script src="vendors/angular-route.min.js"></script>
+    <script src="scripts/client.js"></script>
+    <script src="scripts/controllers/controller.home.js"></script>
+    <script src="scripts/controllers/controller.nav.js"></script>
+    <link rel="stylesheet" href="vendors/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/social.css">
+    <link rel="stylesheet" href="styles/navbar.css">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-73709591-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-73709591-2');
+</script>
+
+<body ng-app="App">
+    <div ng-controller="NavController as nc">
+        <ng-include src="'views/partials/header.html'"></ng-include>
+        <ng-include src="'views/partials/navbar.html'"></ng-include>
+    </div>
+    <main ng-view></main>
+    <ng-include src="'views/partials/footer.html'"></ng-include>
+</body>
+
+
+</html>

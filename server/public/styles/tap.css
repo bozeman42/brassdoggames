@@ -1,7 +1,8 @@
 .tap-game-page {
-    background-color: white;
+    background-color: whitesmoke;
     padding: 10px 50px 50px 50px;
     border-radius: 10px;
+    color: black;
 }
 
 
@@ -30,8 +31,4 @@
 
 .title {
     margin-bottom: 50px;
-}
-
-.jumbotron {
-    background-color: white;
 }
