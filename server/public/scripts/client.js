@@ -33,7 +33,7 @@ app.run(function($rootScope,$location) {
   $rootScope.$on('$locationChangeStart',function(event,next,current){
     window.dataLayer.push({
       event: 'pageView',
-      action: $locaton.path()
+      action: $location.path()
     });
   });
 });
