@@ -34,5 +34,10 @@
 }
 .carousel-caption p {
     color: white;
-    font-family:sans-serif;
+    font-family: sans-serif;
+}
+
+.eight-bit-sheet {
+  width: 100%;
+  max-width: 612px;
 }
