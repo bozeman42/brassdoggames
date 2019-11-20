@@ -10,7 +10,7 @@
   "author": "Aaron Kvarnlov-Leverty",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.8",
+    "angular": "^1.7.9",
     "angular-route": "^1.6.8",
     "express": "^4.16.2"
   }
